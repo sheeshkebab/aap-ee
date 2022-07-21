@@ -1,0 +1,6 @@
+git-lfs [platform:rpm]
+bind-utils [platform:rpm]
+iputils [platform:rpm]
+krb5-devel [platform:rpm]
+krb5-libs [platform:rpm]
+krb5-workstation [platform:rpm]
